@@ -1,0 +1,1 @@
+#define ENABLE_GET_PARTY_LEVEL
